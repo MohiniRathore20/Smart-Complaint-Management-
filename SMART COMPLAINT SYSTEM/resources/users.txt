@@ -1,0 +1,8 @@
+
+admin,admin123,Admin
+dept1,pass123,Department
+student1,stu123,Student
+faculty1,fac456,Faculty
+userx,test123,Student
+hima,hima123,Student
+mohini,moh123,Student
